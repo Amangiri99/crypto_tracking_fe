@@ -1,14 +1,14 @@
-# Getting Started with Create React App
+# Crypto Tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## To start the device
-1. `yarn install` To install the dependencies
-2. `yarn start` To start the application
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install`
+
+Installs all the dependencies
 
 ### `yarn start`
 
